@@ -186,7 +186,7 @@ It combines hardware and software to explore how smart technologies can improve 
 **Arif**  
 Cybersecurity Graduate | Information Security | IoT Security | Network Security
 
-GitHub: 
+GitHub: https://github.com/arepdrako123
 
-LinkedIn: (https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/)
+LinkedIn: https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/
 
